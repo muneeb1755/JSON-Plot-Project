@@ -1,0 +1,25 @@
+body{
+
+    margin: 0;
+    padding: 0%;
+    font-family: sans-serif;
+
+}
+.scroll{
+height:500px;
+width:500px;
+background: #f1f1f1;
+overflow:scroll;
+padding: 10px;
+overflow: hidden;
+overflow-y: scroll;
+}
+
+/* Set the size of the div element that contains the map */
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
+                       
