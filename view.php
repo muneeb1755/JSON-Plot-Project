@@ -3,9 +3,9 @@ require ('db.php');
 ?>
 <?php
 //Searching Data for Update
-if(isset($_GET['id']))
+if(isset($_POST['id']))
 {
-$id = $_GET['id'];
+$id = $_POST['id'];
 
 // read json file
 $data = file_get_contents('file1.json');
@@ -99,6 +99,3 @@ var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtvVsPv-HWcKmbBJ0f6xtmoW0GTZC0wY0&callback=myMap"></script>
   
-
-</body>
-</html> 

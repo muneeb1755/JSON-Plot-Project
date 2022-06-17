@@ -4,8 +4,9 @@ echo "ABC";
 ?>
 <!DOCTYPE html>
 <html>
+
 <body>
-<?php
+    <?php
 if(isset($_POST['deleteid']))
 {
 $id = $_POST['id'];
@@ -24,6 +25,5 @@ file_put_contents('file1.json', json_encode($json_arr));
 header("location:JsonTable.php");
 }
 ?>
-
 </body>
 </html>

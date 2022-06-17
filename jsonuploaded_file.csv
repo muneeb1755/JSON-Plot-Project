@@ -1,0 +1,5 @@
+id,szPlotIdUniqueKey,fPrice,szRow,szPlot,szLot,szCentroidLatitude,szCentroidLongtitude,szCentroidNorthing,szCentroidEasting,szNECornerLatitude,szNECornerLongitude,szNWCornerLatitude,szNWCornerLongitude,szSECornerLatitude,szSECornerLongitude,szSWCornerLatitude,szSWCornerLongitude,boundaryPlot,cornerPlot,PriceWithTax
+1,940b7898f1692f350c19,23,23,23,545,65,76,78,87,98,98,45,32,32,54,65,76,87,87,
+2,940b7898f1692f350c19,23,23,23,545,65,76,78,87,98,98,45,32,32,54,65,76,87,87,
+3,940b7898f1692f350c1,23,23,23,545,65,76,78,87,98,98,45,32,32,54,65,76,87,87,
+5,940b7898f1692f350c19,23,23,23,545,65,76,78,87,98,98,45,32,32,54,65,76,87,87,
